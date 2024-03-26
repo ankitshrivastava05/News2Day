@@ -1,0 +1,46 @@
+
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .stat {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .stat h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .links {
+    margin-top: 20px;
+  }
+  
+  .link {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .link:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,32 @@
+
+.performancereportscontainer {
+    padding: 20px;
+  }
+  
+  .performancereportscontainer h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .performancemetrics {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .metric {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .metric h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .metric p {
+    font-size: 16px;
+  }
+  

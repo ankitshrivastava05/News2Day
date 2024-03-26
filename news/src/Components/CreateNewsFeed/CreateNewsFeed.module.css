@@ -1,0 +1,37 @@
+/* CreateNewsFeed.css */
+.create-news-feed-container {
+  padding: 20px;
+}
+
+.createnewsfeedcontainer h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.formcontainer input[type="text"],
+.formcontainer textarea,
+.formcontainer button {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.formcontainer button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.formcontainer button:hover {
+  background-color: #0056b3;
+}
